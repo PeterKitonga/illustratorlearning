@@ -9,7 +9,7 @@ In this lesson, I learned about the stacking order of objects and how to arrange
 
 ### Illustrations
 
-In the illustrations below, I changed the order position of the star to be on top of all the rectangle and ellipse.
+In the illustrations below, I changed the order position of the star to be on top of the rectangle and ellipse.
 
 ![Illustration Example](../assets/images/lesson-03/illustration-01.png)
 
