@@ -1,4 +1,4 @@
-## About Lesson 02
+## About Lesson 03
 
 ### Brief
 In this lesson, I learned about the stacking order of objects and how to arrange them. We can change the stacking order of objects via the options under the menu ``Object > Arrange``. The available arrangement options include include:
