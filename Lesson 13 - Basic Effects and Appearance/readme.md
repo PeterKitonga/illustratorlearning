@@ -9,7 +9,7 @@ In the illustration below, I applied a drop shadow to the shape object by naviga
 
 ![Illustration Example](../assets/images/lesson-13/illustration-01.png)
 
-Afte clicking on the Drop Shadow menu I got a Drop Shadow window that I used to edit the properties of the effect.
+After clicking on the Drop Shadow menu I got a Drop Shadow window that I used to edit the properties of the effect.
 
 ![Illustration Example](../assets/images/lesson-13/illustration-02.png)
 
