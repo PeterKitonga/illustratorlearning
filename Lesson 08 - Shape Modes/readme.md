@@ -5,7 +5,7 @@ In this lesson, I learned about the various shape modes available under the Path
 
 ### Illustrations
 
-In the illustration below, I selected to shapes together and would click on the shape modes to get the below results.
+In the illustration below, I selected two shapes together and would click on the shape modes to get the below results.
 
 ![Illustration Example](../assets/images/lesson-08/illustration-01.png)
 
