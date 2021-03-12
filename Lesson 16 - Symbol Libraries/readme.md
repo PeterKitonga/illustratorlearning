@@ -13,7 +13,7 @@ Here, I was able to edit the symbol by double clicking the instance using the se
 
 ![Illustration Example](../assets/images/lesson-16/illustration-02.gif)
 
-Alternatively, to edit a symbol instance we can use the menu `Object > Expand` to give us the ability to modify it. 
+Alternatively, to edit a symbol instance we can use the menu `Object > Expand` to give us the ability to modify it. Thereafter you ungroup the symbol `Object > Ungroup` and edit any individual element you desire.
 
 ![Illustration Example](../assets/images/lesson-16/illustration-03.gif)
 
