@@ -1,11 +1,11 @@
 ## About Lesson 14
 
 ### Brief
-In this lesson, I learned how to create, name and arrange layers in Illustrator. Just like in Photoshop layers define the stacking order of elements and as elements get crowded it is good practice to name and group them.
+In this lesson, I learned how to create, name and arrange layers in Illustrator. Just like in Photoshop, layers define the stacking order of elements and as elements get crowded it is good practice to name and group them.
 
 ### Illustrations
 
-In the illustration below, I created a layer called factory-elements which would house the sub layers selected. To move these elements to the new layer, I first selected them and using the selection indicator(blue dot) on the layers palette I dragged and dropped them to the factory-elements layer. 
+In the illustration below, I created a layer called factory-elements which would house the sub layers selected. To move these elements to the new layer, I first selected them and using the selection indicator(blue dot) on the layers palette I dragged and dropped them into the factory-elements layer. 
 
 ![Illustration Example](../assets/images/lesson-14/illustration-01.png)
 
