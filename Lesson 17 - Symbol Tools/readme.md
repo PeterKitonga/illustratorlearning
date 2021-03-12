@@ -29,7 +29,7 @@ Here, I used the symbol stainer tool to change the fill color of a symbol instan
 
 ![Illustration Example](../assets/images/lesson-17/illustration-04.gif)
 
-Here, I used thee symbol screener tool to change the transparency of a symbol instance.
+Here, I used the symbol screener tool to change the transparency of a symbol instance.
 
 ![Illustration Example](../assets/images/lesson-17/illustration-05.gif)
 
