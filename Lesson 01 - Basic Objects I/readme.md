@@ -1,7 +1,7 @@
 ## About Lesson 01
 
 ### Brief
-In this lesson, I was introduced to basic shapes objects in illustrator. The various tools for drawing shapes include:
+In this lesson, I was introduced to basic shape objects in illustrator. The various tools for drawing shapes include:
 - Rectangle Tool
 - Rounded Rectangle Tool
 - Ellipse Tool
@@ -13,7 +13,7 @@ In this lesson, I was introduced to basic shapes objects in illustrator. The var
 
 ### Illustrations
 
-In the illustrations below, I created a rectangle by selecting the Rectangle Tool and clicking on the art board. This opens a dialog box for entering the dimensions.
+In the illustration below, I created a rectangle by selecting the Rectangle Tool and clicking on the art board. This opens a dialog box for entering the dimensions.
 
 ![Illustration Example](../assets/images/lesson-01/illustration-02.png)
 ![Illustration Example](../assets/images/lesson-01/illustration-03.png)
