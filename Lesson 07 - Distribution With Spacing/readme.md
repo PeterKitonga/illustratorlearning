@@ -1,7 +1,7 @@
 ## About Lesson 07
 
 ### Brief
-In this lesson, I learned about how to use the distribution tools under the `Align` palette. These tools are used to distribute space between objects vertically or horizontally.
+In this lesson, I learned how to use the distribution tools under the `Align` palette. These tools are used to distribute space between objects vertically or horizontally.
 
 ### Illustrations
 
