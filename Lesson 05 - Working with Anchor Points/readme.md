@@ -1,7 +1,7 @@
 ## About Lesson 05
 
 ### Brief
-In this lesson, I learned about using the pen tool to modify anchor points of objects.
+In this lesson, I learned how to use the pen tool to modify anchor points of objects.
 
 ### Illustrations
 
