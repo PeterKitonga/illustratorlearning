@@ -1,15 +1,15 @@
 ## About Lesson 12
 
 ### Brief
-In this lesson, I learned about cutting and joining paths in illustrator. I learned how to use the pen tool and the menu `Object > Path > Join` to join open ended anchor points.
+In this lesson, I learned about cutting and joining paths in illustrator. Here I use the pen tool and the menu `Object > Path > Join` to join open ended anchor points.
 
 ### Illustrations
 
-In the illustration below, I used the Pen Tool to click on each open ended anchor point which inturn drew a path to the join them.
+In the illustration below, I used the Pen Tool to click on each open ended anchor point which inturn drew a path to join them.
 
 ![Illustration Example](../assets/images/lesson-12/illustration-01.gif)
 
-Here joined the anchor points by first selecting the object then navigating to the menu `Object > Path > Join`(Ctrl + J)
+Here I joined the anchor points by first selecting the object then navigating to the menu `Object > Path > Join`(Ctrl + J)
 
 ![Illustration Example](../assets/images/lesson-12/illustration-02.png)
 ![Illustration Example](../assets/images/lesson-12/illustration-03.png)
