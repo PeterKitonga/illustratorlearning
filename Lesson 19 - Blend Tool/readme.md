@@ -1,7 +1,7 @@
 ## About Lesson 19 - Blend Tool
 
 ### Brief
-In this lesson, I learned about ```Blend Tool``` and created blends between objects.
+In this lesson, I learned about the ```Blend Tool``` and created blends between objects.
 
 ### Illustrations
 
