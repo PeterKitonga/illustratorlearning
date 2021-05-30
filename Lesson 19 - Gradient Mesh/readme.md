@@ -1,7 +1,7 @@
 ## About Lesson 19 - Gradient Mesh
 
 ### Brief
-In this lesson, I learned about how to use the gradient mesh tool. I used it to create different selectable sections that I could modify and apply different using the ```Eyedropper tool```
+In this lesson, I learned how to use the gradient mesh tool. I used it to create different selectable sections that I could modify and apply different effects using the ```Eyedropper tool```
 
 ### Illustrations
 
