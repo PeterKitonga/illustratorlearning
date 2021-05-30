@@ -5,7 +5,7 @@ In this lesson, I learned about the various perspective grids and how to use the
 
 ### Illustrations
 
-Here, I created a grid using the ```Perspective Grid Tool``` and navigated to ```View > Perspective Grid``` to tinker with the different grid types. In this illustration I applied the Two Point Perspective. With the ```Perspective Selection Tool``` I would first select a part of the grid and apply artwork to it.
+Here, I created a grid using the ```Perspective Grid Tool``` and navigated to ```View > Perspective Grid``` to tinker with the different grid types. In this illustration I applied the Two Point Perspective grid. With the ```Perspective Selection Tool``` I would first select a part of the grid and apply artwork to it.
 
 ![Illustration Example](../assets/images/lesson-20/illustration-01.gif)
 
