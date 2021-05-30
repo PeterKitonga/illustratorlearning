@@ -5,11 +5,11 @@ In this lesson, I learned how to make clipping masks using the menu ```Object > 
 
 ### Illustrations
 
-In this example I first created an circle using the ```Elipse Tool```. I then selected the image and the shape object and created a clipping mask through the menu ```Object > Clipping Mask > Make```.
+In this example I first created a circle using the ```Elipse Tool```. I then selected the image and the shape object and created a clipping mask using the menu ```Object > Clipping Mask > Make```.
 
 ![Illustration Example](../assets/images/lesson-23/illustration-01.gif)
 
-Here, I applied a clipping mask to text and applied a drop shadow effect to make it visible.
+Here, I applied a clipping mask to the text and applied a drop shadow effect to make it visible.
 
 ![Illustration Example](../assets/images/lesson-23/illustration-02.gif)
 
