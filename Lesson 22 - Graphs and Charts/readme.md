@@ -1,11 +1,11 @@
 ## About Lesson 22
 
 ### Brief
-In this lesson, I learned about creating graphs and charts using the graph tools and applying 3D effects to them using ```Effect > 3D```
+In this lesson, I learned about creating graphs and charts using the graph tools and applying 3D effects to them using the menu option ```Effect > 3D > Extrude & Bevel```
 
 ### Illustrations
 
-In this example I created a graph using the ```Column Graph Tool``` where I first defined the legends of the graph and their values. I also added a background using the ```Rectangle Tool```. I also changed the colors of the legends as well as the fonts of the legends and axis labels.
+In this example I created a graph using the ```Column Graph Tool``` where I first defined the legends of the graph and their values. I also added a background using the ```Rectangle Tool```. I then changed the colors of the legends as well as their fonts and the axis labels.
 
 ![Illustration Example](../assets/images/lesson-22/illustration-01.gif)
 
