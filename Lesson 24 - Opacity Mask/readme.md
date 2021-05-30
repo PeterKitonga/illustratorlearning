@@ -1,7 +1,7 @@
 ## About Lesson 24
 
 ### Brief
-In this lesson, I learned how to make an opacity mask using the ```Transparency``` palette. I used it to create a reflection in combination with a gradient. Note: with masks, one will notice that black always hides and white shows.
+In this lesson, I learned how to make an opacity mask using the ```Transparency``` palette. I used it to create a reflection in combination with a gradient. _Note: with masks, one will notice that black always hides and white shows._
 
 ### Illustrations
 
